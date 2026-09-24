@@ -1,1 +1,3 @@
-# This is my second file and my first commitC
+# This is my second file and my first commit
+
+print("qweerty")
